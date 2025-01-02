@@ -28,7 +28,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:171"
+      "$$hashKey": "object:172"
     },
     {
       "name": "Name",
@@ -41,7 +41,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:172"
+      "$$hashKey": "object:173"
     }
   ],
   "commands": null,
@@ -52,7 +52,9 @@
   "workbenchEnabled": false,
   "dataProviderCreated": false,
   "description": null,
-  "tags": null,
+  "tags": [
+    "Tag1"
+  ],
   "successResponseDefinition": null,
   "errorResponseDefinition": null,
   "updateCode": false,
