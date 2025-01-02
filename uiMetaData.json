@@ -5,11 +5,12 @@
   "domoClientId": null,
   "domoClientSecret": null,
   "additionalInfo": null,
-  "reportLength": 2,
+  "reportLength": 3,
   "days": 7,
   "reports": [
     "Report1",
-    "Report2"
+    "Report2",
+    "Past Day"
   ],
   "advancedReports": null,
   "guid": "5a262fb1-0307-4487-a19b-e9f9c95919af",
@@ -27,7 +28,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:414"
+      "$$hashKey": "object:171"
     },
     {
       "name": "Name",
@@ -40,7 +41,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:415"
+      "$$hashKey": "object:172"
     }
   ],
   "commands": null,
