@@ -1,6 +1,6 @@
 {
   "type": "none",
-  "authCodeText": "auth.authenticationSuccess();",
+  "authCodeText": " auth.authenticationSuccess();",
   "userName": null,
   "password": null,
   "apiKey": null,

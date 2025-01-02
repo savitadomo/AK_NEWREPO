@@ -3,7 +3,7 @@
   "name": "AK Domo Action Connector",
   "connectorType": "domoAction",
   "type": "none",
-  "authCodeText": "auth.authenticationSuccess();",
+  "authCodeText": " auth.authenticationSuccess();",
   "userName": null,
   "password": null,
   "apiKey": null,
@@ -52,7 +52,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:171"
+      "$$hashKey": "object:414"
     },
     {
       "name": "Name",
@@ -65,7 +65,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:172"
+      "$$hashKey": "object:415"
     }
   ],
   "commands": null,
