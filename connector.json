@@ -43,23 +43,29 @@
   "parameters": [
     {
       "name": "Date",
-      "order": -1,
-      "required": true,
       "type": "dateSelector",
+      "required": true,
+      "order": -1,
       "options": [],
+      "command": null,
+      "helpText": "date",
       "showWhen": "",
-      "$$hashKey": "object:165",
-      "helpText": "date"
+      "value": null,
+      "dateSelectorValue": null,
+      "$$hashKey": "object:171"
     },
     {
       "name": "Name",
-      "order": 0,
-      "required": true,
       "type": "string",
+      "required": true,
+      "order": 0,
       "options": [],
+      "command": null,
+      "helpText": "name",
       "showWhen": "",
-      "$$hashKey": "object:178",
-      "helpText": "name"
+      "value": null,
+      "dateSelectorValue": null,
+      "$$hashKey": "object:172"
     }
   ],
   "commands": null,
