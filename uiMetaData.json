@@ -5,14 +5,38 @@
   "domoClientId": null,
   "domoClientSecret": null,
   "additionalInfo": null,
-  "reportLength": 0,
+  "reportLength": 2,
   "days": 7,
-  "reports": null,
+  "reports": [
+    "Report1",
+    "Report2"
+  ],
   "advancedReports": null,
   "guid": "5a262fb1-0307-4487-a19b-e9f9c95919af",
   "publishPrivate": true,
   "visibilityType": null,
-  "parameters": null,
+  "parameters": [
+    {
+      "name": "Date",
+      "order": -1,
+      "required": true,
+      "type": "dateSelector",
+      "options": [],
+      "showWhen": "",
+      "$$hashKey": "object:165",
+      "helpText": "date"
+    },
+    {
+      "name": "Name",
+      "order": 0,
+      "required": true,
+      "type": "string",
+      "options": [],
+      "showWhen": "",
+      "$$hashKey": "object:178",
+      "helpText": "name"
+    }
+  ],
   "commands": null,
   "showAdvanced": true,
   "submittedVersion": 0,
